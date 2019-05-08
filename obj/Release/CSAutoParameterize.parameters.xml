@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HRConnectionString-Web.config Connection String" description="HRConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=51.136.17.146;Initial Catalog=HR;User ID=dxcadmin;Password=dxcadmin12345!@#$%" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\yhristov4\\source\\repos\\new\\new\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HRConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
